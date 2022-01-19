@@ -7,6 +7,7 @@ Feel free to reach out 😋
 ## Content
 - Add Two Numbers: Addition of two numbers provided in a linkedList
 - Longest Substring: Longest Substring Without Repeating Characters. Implementation using C# and Go
+- Median of Two Sorted Arrays. Implementation in Go
 
 
 
